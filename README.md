@@ -7,4 +7,4 @@
 
 
 
-<img align="center">https://cdn.discordapp.com/attachments/987782980422488184/996731459580731413/unknown.png?size=4096</img>
+<img align="center" src="https://cdn.discordapp.com/attachments/987782980422488184/996731459580731413/unknown.png">
