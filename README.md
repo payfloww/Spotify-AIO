@@ -3,4 +3,4 @@
 
 <h1 align="center"> Requirements </h1>
 
--  ![Proxies] (https://sslproxies.org/)
+-  Proxies (https://sslproxies.org/)
